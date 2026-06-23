@@ -161,11 +161,6 @@ NBKR Institute of Science and Technology
 
 If you like this project, please give it a ⭐ on GitHub and share your feedback.
 
-### GitHub Repository Description (Short)
-
-```text
-🌍 AI-powered multilingual translation platform supporting 100+ languages with translation, text-to-speech, grammar correction, paraphrasing, analytics dashboard, and translation history using Python and Streamlit.
-```
 
 ### GitHub Topics
 
@@ -178,9 +173,5 @@ translator
 language-translation
 text-to-speech
 grammar-checker
-paraphraser
-machine-learning
-generative-ai
-```
 
-This README is suitable for internships, portfolio projects, and resume showcases.
+----------------------
